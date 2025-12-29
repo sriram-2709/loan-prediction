@@ -98,3 +98,4 @@ print("\nLoan Prediction Result:")
 print("✅ Loan Approved" if prediction[0] == 1 else "❌ Loan Rejected")
 
 
+
